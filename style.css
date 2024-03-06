@@ -1,0 +1,20 @@
+
+button{
+    width: 100px;
+    border: none;
+    background-color: #2f2f2f;
+    color: #ddd;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#results {
+    width: 300px;
+    height: 200px;
+    /* border: 1px solid #000; */
+    overflow-y: auto;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0px 2px 12px #ddd;
+   
+  }
